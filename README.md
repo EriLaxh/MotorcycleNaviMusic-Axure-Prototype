@@ -44,17 +44,27 @@ This project rigorously applied various HCI principles and theories to guide its
 * **User Interface (UI) Design:** Crafting the visual layout, interactive elements, typography, and color schemes, with a critical focus on readability, large touch targets, and minimal visual clutter suitable for a riding environment.
 * **Interactive Prototyping:** Building the high-fidelity, clickable prototype in Axure RP 11 to demonstrate the seamless integration and interactive experience, serving as a key deliverable for the project.
 
-## Research Study / Usability Evaluation (Proposed)
+## Proposed Future Enhancements 
 
-As part of this HCI project, a research study was proposed to evaluate the usability and visual clarity of the mid-fidelity prototype for motorbike riders. The objective was to assess how effectively the design communicates its functionality and supports navigation and music management while aligning with safety principles.
+* **Dynamic Stop Additions:** Implement a `+` icon in the Edit Stops interface for easy addition of new stops at specific route points, streamlining planning and offering greater flexibility.
+* **Day Mode and Night Mode:** Introduce a mode-switching feature to adjust the interface’s color scheme for different lighting conditions, improving visibility and usability in varying environments.
+* **Location Descriptions and Reviews:** Expand the location details panel to include brief descriptions, user reviews, and ratings for destinations, providing valuable insights for route planning.
+* **Personalization Options:** Allow users to customize the interface with adjustable color schemes, font sizes, and icon styles to cater to individual needs and improve satisfaction.
 
-The proposed methodology involved:
-* **Participants:** 10–15 motorbike riders aged 18–50 years with diverse familiarity with navigation and music applications.
-* **Procedure:** Participants would review static prototype screens based on hypothetical task scenarios, followed by pre- and post-study questionnaires and semi-structured interviews to gather feedback on usability and clarity.
-* **Data Analysis:** Quantitative analysis of questionnaire responses (ease of use, visual clarity, perceived safety) and qualitative analysis of participant feedback to identify strengths, challenges, and suggestions.
+## License
 
-The expected outcomes aimed to validate the prototype's visual intuitiveness, assess information clarity for quick decision-making, identify design strengths and gaps, and evaluate perceived safety, particularly in high-stakes navigation scenarios.
+This project is licensed under the MIT License. You are free to use, modify, and distribute the project as needed.
 
-## Future Enhancements Proposed
+## Disclaimer
 
-Based on the project's findings and potential areas for further development, the following enhancements
+The Motorcycle Navi Music prototype is a conceptual project developed specifically as a **college HCI project** for academic and portfolio purposes, showcasing the application of human-computer interaction principles in UI/UX design and prototyping. The full academic report is not included in this repository to prevent unauthorized use and plagiarism.
+
+## Acknowledgements
+
+* **Academic Affiliation:** Completed for **COMP 1649 Human Computer Interaction** at **SEGI College, Penang**, under the **University of Greenwich** program.
+* **Design Inspirations:**
+    * **Music Apps:** YouTube Music, Apple Music.
+    * **Navigation Apps:** Google Maps, Waze.
+    * **Hardware Concepts:** Smart Helmets (Sena Impulse), Heads-Up Displays (Nuviz HUD), Bone Conduction Headphones (Shokz OpenRun Pro), Handlebar Controllers (dPod).
+
+---
